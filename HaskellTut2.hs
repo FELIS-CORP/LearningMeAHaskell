@@ -3,7 +3,7 @@
 import Data.List
 import System.IO
 
---This function compares the age value input by the user against our guards
+--This function compares the age Int input by the user against our guards and then outputs the string next to it in quotes.
 
 figureGrade :: Int -> String
 figureGrade age
